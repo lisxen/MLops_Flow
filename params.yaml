@@ -1,0 +1,4 @@
+batch_size: 300
+epochs: 15
+validation_split: 0.1
+verbose: 2
